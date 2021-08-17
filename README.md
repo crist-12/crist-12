@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crist-12&label=Profile%20views&color=0e75b6&style=flat" alt="crist-12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crist-12" alt="crist-12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crist-12&theme=onedark" alt="crist-12" /></a> </p>
 
 - 🌱 I’m currently learning **Django, FastAPI**
 
