@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, FastAPI**
 
-- 👨‍💻 All of my projects are available at [https://portafolio-crist.herokuapp.com/portafolio](https://portafolio-crist.herokuapp.com/portafolio)
+- 👨‍💻 All of my projects are available at [https://crist-12.github.io/portfolio-web2/](https://crist-12.github.io/portfolio-web2/)
 
 - 💬 Ask me about **React, React Native**
 
